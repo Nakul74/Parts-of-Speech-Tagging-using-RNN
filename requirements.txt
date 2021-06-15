@@ -1,0 +1,8 @@
+Flask
+numpy
+joblib
+absl-py
+astunparse
+regex
+tensorflow-cpu == 2.5.0
+pywebio == 1.3.0

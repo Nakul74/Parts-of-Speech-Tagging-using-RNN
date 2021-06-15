@@ -2,6 +2,9 @@
 
 #### Given text predicts tags for each word
 
+### App Link
+https://parts-of-speech-tagger.herokuapp.com/
+
 #### Screenshots
 
 <img width="828" alt="Capture" src="https://user-images.githubusercontent.com/43163370/122036882-aab91200-cdf1-11eb-8f40-c70f3ec18493.PNG">
